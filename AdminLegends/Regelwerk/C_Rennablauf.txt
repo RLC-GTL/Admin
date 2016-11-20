@@ -1,0 +1,43 @@
+§1 Rennablauf
+
+(1) Wertungsrennen
+Zeitplan für die Wertungsrennen:
+Training 	19:00 Uhr
+Qualifikation 	20:30 Uhr
+Rennstart 	21:00 Uhr
+Renndauer 	45 Minuten
+
+(2) Qualifikation und Start
+In der Qualifikation gilt ESC-Verbot. Das bedeutet, dass ein Fahrer nicht mit der ESC-Taste von der Strecke in die Box zurückwechseln darf. Tut er es doch, so darf er in der laufenden Qualifikationssitzung die Box nicht mehr verlassen. Zuwiderhandlung wird bestraft (Qualifikationssperre im nächsten Rennen bzw. bei nächster Teilnahme). Innerhalb der Boxengasse bzw. am Boxenplatz ist der Einsatz der ESC-Taste erlaubt.
+Dabei muss die Boxengasse eigenständig, aus eigener Kraft erreicht werden (sich z.B. in die Box schieben zu lassen, ist untersagt).
+Außerdem darf in der schnellsten Qualifikationsrunde die Strecke (dazu zählen nur die Curbs, aber nicht Auslaufzonen oder Rasengittersteine) max. mit 3 Reifen verlassen werden. Sobald sich in dieser Runde ein vierter Reifen vollständig außerhalb von Strecke oder Curbs befindet, wird die Runde nicht gewertet und ist durch Verlangsamen abzubrechen bzw. es darf in dieser Runde keine neue, persönliche Bestzeit gesetzt werden. Zuwiderhandlung wird bestraft (Qualifikationssperre im nächsten Rennen bzw. bei nächster Teilnahme).
+
+Zu Beginn der Rennsession begeben sich die Fahrer direkt in die Startaufstellung (per Klick auf "Race" bzw. "Rennen").
+Der Rennstart erfolgt stehend.
+
+(3) Rennende
+Nach der Zielflagge verbleiben alle Fahrer auf dem Server.
+
+(4) Rennabbruch / Annulierung
+Ein Rennabbruch erfolgt ausschließlich aufgrund technischer Probleme oder eines Massendisconnects und durch ein Mitglied der Reko. Ein Massendisconnect liegt in der Regel vor, wenn mehr als ein Viertel der Fahrer zeitgleich oder sehr zeitnah durch Verbindungsabbruch den Server verlässt. Es liegt im Ermessen der Rennkommission bei Vorliegen eines Massendisconnects ein Rennen sofort abzubrechen oder sich Zeit zu nehmen die Situation im fortlaufenden Rennen einzuschätzen. Ein Rennabbruch oder Neustart lediglich aufgrund eines großen Unfalls zu Rennbeginn findet nicht statt.
+Ein Neustart erfolgt maximal bis zu einer absolvierten Renndauer von 15 Minuten (zum Zeitpunkt des Rennabbruchs), immer mit einer Renndauer von 45 Minuten und mit der ursprünglichen Startaufstellung des abgebrochenen Rennens (Ausnahme: Rennabbruch nach nicht erfolgter Rennfreigabe - siehe vorheriger Absatz).
+
+
+§2 Servereinstellung
+
+(1) allgemeine Servereinstellung
+Joinphase 	Training & Qualifikation
+InGame - Startzeit 	regulär 14:00 Uhr (Ausnahmen werden in der Rennankündigung bekanntgegeben.)
+Flaggen 	nur schwarze Flaggen
+Spritverbrauch 	normal
+Reifenabnutzung 	normal
+Defekte 	normal
+Sicht 	frei wählbar
+Autopilot 	nein
+Schadensmultiplikator 	100%
+Fahrhilfen 	Automatikschaltung, Automatikkupplung, Traktionskontrolle Simvorgabe, ABS Simvorgabe
+Setup 	frei wählbar
+Start 	stehender Start
+Rejoin 	nicht erlaubt
+Zusatzgewichte 	siehe Regelwerk
+Boxengassen-Tempolimit 	Sim-Vorgabe 

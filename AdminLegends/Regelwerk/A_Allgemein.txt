@@ -1,0 +1,20 @@
+(1) Anmeldung
+Jeder Fahrer muss mit einer gültigen eMail-Adresse als Mitglied bei Simracing United registriert sein.
+Zum Fahren berechtigt ist jeder, der eine stabile Internetverbindung zu den Ligaservern herstellen kann und mit der eingesetzten Hard- und Software einen reibungslosen Ablauf auf den Ligaservern nicht gefährdet.
+
+(2) Benutzername
+Bei der Anmeldung zu einer Serie ist der reale Name (vollständiger Vorname und vollständiger Nachname) anzugeben und zwar ohne weitere (Clan-)Kürzel, Zahlen, Sonder- und Füllzeichen.
+Ein gültiger Fahrername ist z.B.: Maximilian Mustermann.
+Realnamen nach o. g. Schema sind ebenfalls im Teamspeak und auf den Ligaservern Pflicht.
+
+(3) Zusatzprogramme / Liga Content
+Das Benutzen von zusätzlichen Programmen, die dem einzelnen Fahrer womöglich einen Wettbewerbsvorteil gegenüber seinen Konkurrenten verschaffen, ist untersagt. Im Interesse der Fairness untereinander ist jeder Fahrer gehalten, diese Vorgaben nicht zu verletzen.
+Der von Simracing United zur Verfügung gestellte Content darf nicht ohne ausdrückliche schriftliche Erlaubnis eines Mitglieds der Ligaleitung weitergegeben, verändert oder für andere Ligen angepasst werden, sofern er dem Copyright von Simracing United unterliegt.
+
+(4) unzulässige Software (Cracks, Cheats, etc.)
+Simracing United toleriert in keiner Weise das Benutzen oder Verbreiten unzulässiger Software wie Cheats, Cracks, Warez und sonstiger Software, die das Urheberrecht der eingesetzten Simulationen und sonstigen Programme verletzt, ebenso solche, die die Fahrphysik und -eigenschaften wettbewerbsverzerrend verändert. Weiterhin ist es nicht gestattet die Dateien, die die Physik der Simulation beeinflussen zu verändern. Als unzulässige Software zählen auch und insbesondere sogenannte No-DVD-Cracks, die den Kopierschutz der jeweiligen Simulation oder anderer Programme umgehen.
+Bei zuwiderhandlung und im Wiederholungsfall droht ein sofortiger Ausschluss aus der gesamten Community.
+
+(5) Regeländerungen und serienspezifische Sonderregelungen
+Regeländerungen oder -ergänzungen, sowie serienspezifische Sonderregelungen werden im Forum der jeweiligen Liga in den Rennankündigungen oder in besonderen Threads angekündigt und haben immer Vorrang vor dem Regelwerk. Die Fahrer haben sich durch regelmäßigen Besuch des Forums auf den aktuellen Stand der für den Ligabetrieb relevanten Regelungen zu halten.
+Notfalls ist auch eine kurzfristige Ankündigung von Sonderregelungen möglich.
