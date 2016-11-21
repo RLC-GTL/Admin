@@ -1,0 +1,31 @@
+§1 Balaance of Power
+
+In der Legends Serie werden Ausgleichsgewichte eingesetzt um das Renngeschehen spannender zu gestalten.
+
+Die Ausgleichsgwichte werden aufgrund von mehreren Faktoren zusammengesetzt:
+
+(1) Rennergebnis
+
+Die Platzierungsgewichte werden folgendermassen berechnet:
+
+Anzahl Fahrer: N
+Position: i
+
+TODO dG(1) = N/i - sum()/N
+
+
+
+(2) Schnellste Runde
+
+
+(3) Anzahl Runden
+
+
+(4) Kontaktpunkte
+
+Bei jedem Kontakt werden die Minorating-Kontaktpunkte direkt in Gewichte umgewandelt.
+
+
+§2 Meisterschaft
+
+Ende Saison wird die Meisterschaft aufgrund der erreichten Gewichte erreicht wobei die Kontaktpunktegewichte 

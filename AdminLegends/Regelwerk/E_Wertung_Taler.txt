@@ -1,0 +1,18 @@
+§1 Gewichtssystem
+
+Langsame Autos saugen mehr Gewicht als Schnelle.
+Rennsieg bringt am Meisten Gewicht; letzter Platz bringt am Wenigsten Gewicht.
+Schnellste Runde bringt ein kleines Zusatzgewicht.
+Am Meisten gefahrene Runden schluckt ein kleines Zusatzgewicht.
+
+Minorating-Kontaktpunkte bringen Strafgewichte.
+
+
+§2 Meisterschaft
+
+Die Auswertung Ende Saison erfolgt aufgrund der erreichten Gewichte wobei die Strafgewichte aufgrund der Kontaktpunkte doppelt abgezogen werden.
+
+
+§3 Gewichtsberechnung
+
+TODO: Siehe E_Wertung_Formel
