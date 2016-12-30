@@ -2,10 +2,9 @@
 
 (1) Wertungsrennen
 Zeitplan für die Wertungsrennen:
-Training 	19:00 Uhr
-Qualifikation 	20:30 Uhr
+Qualifikation 	19:00 Uhr
 Rennstart 	21:00 Uhr
-Renndauer 	45 Minuten
+Renndauer 	ca. 45 Minuten
 
 (2) Qualifikation und Start
 In der Qualifikation gilt ESC-Verbot. Das bedeutet, dass ein Fahrer nicht mit der ESC-Taste von der Strecke in die Box zurückwechseln darf. Tut er es doch, so darf er in der laufenden Qualifikationssitzung die Box nicht mehr verlassen. Zuwiderhandlung wird bestraft (Qualifikationssperre im nächsten Rennen bzw. bei nächster Teilnahme). Innerhalb der Boxengasse bzw. am Boxenplatz ist der Einsatz der ESC-Taste erlaubt.
@@ -35,7 +34,7 @@ Defekte 	normal
 Sicht 	frei wählbar
 Autopilot 	nein
 Schadensmultiplikator 	100%
-Fahrhilfen 	Automatikschaltung, Automatikkupplung, Traktionskontrolle Simvorgabe, ABS Simvorgabe
+Fahrhilfen 	Automatikkupplung
 Setup 	frei wählbar
 Start 	stehender Start
 Rejoin 	nicht erlaubt

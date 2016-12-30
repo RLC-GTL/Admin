@@ -16,41 +16,40 @@ Zum Verteilen der Track-, Car- und Skin-Packs wird das AC_SRU_Sync Tool verwende
 §2 Fahrerfeld
 
 (1) Startplätze / Grids
-Die Serie wird in einem Grid bestehend aus maximal 30 Autos gefahren. Sollten streckenbedingt mehr oder weniger Startplätze zur Verfügung stehen, wird dieses in der Rennankündigung ausdrücklich erwähnt.
+Die Serie wird in einem Grid bestehend aus maximal 18 Autos gefahren. Sollten streckenbedingt mehr oder weniger Startplätze zur Verfügung stehen, wird dieses in der Rennankündigung ausdrücklich erwähnt.
 
 (2) Anmeldung für die Serie
 Fahrer- Anmeldung
 Die Anmeldung zur Serie erfolgt in einem gesonderten Thread im Forum und ist verpflichtend für alle teilnehmenden Fahrer, die an Wertungsrennen teilnehmen möchten.
-In der Anmeldung muss von jedem Fahrer die Steam GUID sowie die Minorating PublicID angegeben werden.
+In der Anmeldung muss von jedem Fahrer die Steam GUID angegeben werden.
 
 Teambildung
 Ein Team besteht aus 2 Fahrern. Die Anmeldung des Teams erfolgt im Fahrer-Anmeldungsthread.
 
 (3) Lizenzvergabe
-Jeder Fahrer, der an einem Wertungsrennen der Serie teilnehmen möchte, benötigt dazu eine Legends-Lizenz.
+Jeder Fahrer, der an einem Wertungsrennen der Serie teilnehmen möchte, benötigt dazu eine Lizenz.
 
-Legends-Lizenzbedingungen:
+Gentlemen's Cup-Lizenzbedingungen:
 - Der Fahrer ist im Anmeldethread in die Serie eingeschrieben.
 - Der Fahrer hat seine Steam GUID bekannt gegeben.
-- Der Fahrer hat seine Minorating PublicID bekannt gegeben.
 - Der Fahrer hat die vorgeschriebenen Apps installiert und aktiviert.
 - Der Fahrer hat mindestens ein Minorating C Grade oder besser.
 
 Eine Lizenz gilt erst dann als erteilt, sobald dies im entsprechenden Thread im Forum bekanntgegeben wurde.
 
-Die Lizenz verfällt automatisch, sobald eine Legends-Lizenzbedingung nicht mehr erfüllt ist oder der Fahrer durch unsportliches Verhalten aufgefallen ist.
+Die Lizenz verfällt automatisch, sobald eine Gentlemen's Cup-Lizenzbedingung nicht mehr erfüllt ist oder der Fahrer durch unsportliches Verhalten aufgefallen ist.
 
-Die Legends-Lizenz kann dann wieder erteilt werden, wenn der betroffene Fahrer die Legends-Lizenzbedingungen wieder erfüllt. Im Falle eines Lizenzentzugs durch unsportliches Verhalten muss zusätzlich mindestens ein Minorating B Grade erreicht werden.
+Die Lizenz kann dann wieder erteilt werden, wenn der betroffene Fahrer die Gentlemen's Cup-Lizenzbedingungen wieder erfüllt. Im Falle eines Lizenzentzugs durch unsportliches Verhalten muss zusätzlich mindestens ein Minorating B Grade erreicht werden.
 
-Jeder Fahrer, der eine neue Legends-Lizenz benötigt, muss sich im Forum zur Beantragung anmelden. Sobald die Erteilung abgeschlossen ist, wird die Übersicht der Lizenzen im Forum aktualisiert.
+Jeder Fahrer, der eine neue Gentlemen's Cup-Lizenz benötigt, muss sich im Forum zur Beantragung anmelden. Sobald die Erteilung abgeschlossen ist, wird die Übersicht der Lizenzen im Forum aktualisiert.
 
 (4) Anmeldung für die Wertungsrennen
-Die Anmeldung zu den einzelnen Wertungsrennen ist nur dann erforderlich, sobald mehr als 30 Teilnehmer für die Serie angemeldet sind.
+Die Anmeldung zu den einzelnen Wertungsrennen ist nur dann erforderlich, sobald mehr als 18 Teilnehmer für die Serie angemeldet sind.
 In diesem (und nur in diesem) Fall gilt:
 Jeder Fahrer, der am nächsten Wertungsrennen teilnehmen möchte, muss sich bis Donnerstags vor dem entsprechenden Wertungsrennen, 17:00 Uhr (Forenzeit) im jeweiligen Thread "Anmeldung zum x. Saisonrennen" eingeschrieben haben. Posts in anderen Threads sind nicht gültig.
 
-Stammfahrer (Zu Saisonbeginn sind das die ersten 30 angemeldeten Fahrer.) haben immer Vorrecht, unabhängig von der Reihenfolge, in der sie sich zum jeweiligen Wertungsrennen angemeldet haben.
-Ersatzfahrer (Zu Saisonbeginn sind das die Fahrer, die sich als 31. oder später angemeldet haben.) bekommen die freien Plätze in der zeitlichen Reihenfolge, in der sie sich zum jeweiligen Wertungsrennen angemeldet haben.
+Stammfahrer (Zu Saisonbeginn sind das die ersten 18 angemeldeten Fahrer.) haben immer Vorrecht, unabhängig von der Reihenfolge, in der sie sich zum jeweiligen Wertungsrennen angemeldet haben.
+Ersatzfahrer (Zu Saisonbeginn sind das die Fahrer, die sich als 19. oder später angemeldet haben.) bekommen die freien Plätze in der zeitlichen Reihenfolge, in der sie sich zum jeweiligen Wertungsrennen angemeldet haben.
 Stammfahrer haben ebenfalls die Möglichkeit, sich von einem Wertungsrennen abzumelden. Dies gibt den Ersatzfahrern, die sich am schnellsten für das jeweilige Rennen angemeldet haben, eine grobe Planungssicherheit.
 Jede An- oder Abmeldung kann durch einen neuen Post wieder revidiert werden.
 Sollte die Abmeldung eines Stammfahrers durch seine Anmeldung revidiert werden, kann dies dazu führen, dass ein Ersatzfahrer seinen Startplatz wieder verliert.
@@ -64,7 +63,7 @@ Stammfahrer, die sich in 3 aufeinanderfolgenden Rennen nicht anmelden bzw. nicht
 §3 Fahrzeugwahl & Startnummer
 
 (1) Zugelassene Fahrzeuge
-Zugelassen sind nur die jeweils verfügbaren Wagen aus dem Carpack.
+Die zugelassenen Fahrzeuge werden in der Rennankündigung bekannt gegeben.
 
 (2) Startnummer
 Bei der Anmeldung ist eine freie Startnummer in dem vorgegebenen Bereich auszuwählen. Bei eigenen Skins muss die Fahrzeugnummer der Startnummer entsprechen. Zu Beginn einer neuen Saison sind eventuell reservierte Startnummern zu beachten; ein entsprechender Thread wird in diesem Fall im Forum eingerichtet.
@@ -88,6 +87,7 @@ Das Design muss an die zuständige Rennkommission im dds Format als kompletter S
 Jedes Design muss folgende Elemente enthalten, die unverändert aus dem Template entnommen werden müssen.
 - Die von Simracing United vorgegebenen Elemente dürfen nicht übermalt, verschoben oder in ihrer Größe verändert werden. Fremdwerbung, die das Template von Simracing United unter- bzw. überlagern, sind zu entfernen.
 - Die Startnummer auf beiden Seiten im Türbereich. Die Startnummer muss die vom Fahrer bei der Anmeldung verwendete Startnummer sein.
+- Der Fahrername mit dem Nationalflagge im Türbereich.
 
 (3) Spezielle Anforderungen
 Das verwendete Design darf nicht gegen die Netiquette verstoßen, nicht anstößig sein und/oder andere Menschen beleidigen. Es darf nicht gegen geltendes Recht oder die guten Sitten verstoßen.
@@ -96,7 +96,7 @@ Das verwendete Design darf nicht gegen die Netiquette verstoßen, nicht anstöß
 Mit Einsendung des auf Simracing United verwendeten Designs an die zuständige Rennkommission versichern die Fahrer, etwaige Copyrights von Bildmaterial, Logos, Werbung oder des gesamten Skins beachtet zu haben und nicht gegen eventuell darauf liegende Urheberrechte zu verstoßen.
 Die Rennkommission behält sich vor, weitere Flächen des Fahrzeuges für Sponsoren von Simracing United zu reservieren, um dort deren Werbung platzieren zu können.
 Die Rennkommission behält sich zudem vor, die vorangegangene Genehmigung eines Designs mit ausreichender Begründung wieder zu entziehen.
-Kein Teilnehmer der Simracing United Legends Serie darf ein Fahrzeug eines anderen Teilnehmers verwenden, weder bei Trainingsrennen noch bei Fun-Events, erst recht nicht bei offiziellen Rennen.
+Kein Teilnehmer des Simracing United Gentlemen's Cups darf ein Fahrzeug eines anderen Teilnehmers verwenden, weder bei Trainingsrennen noch bei Fun-Events, erst recht nicht bei offiziellen Rennen.
 Bei öffentlich verwendetem Bildmaterial (Screenshots, Filmauschnitte, etc.) ist das zum Zeitpunkt des gefahrenen Events aktuelle Carpack zu verwenden.
 Zuwiderhandlung gegen diese Regelung wird mit ernsten Konsequenzen geahndet, da hierdurch unsere Sponsoren geschädigt werden.
 Jeder Fahrer ist verpflichtet, dafür Sorge zu tragen, immer die aktuelle Version von Strecke, MOD und Skinpack installiert zu haben.
