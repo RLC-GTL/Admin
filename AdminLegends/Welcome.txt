@@ -1,0 +1,16 @@
+Welcome / Willkommen
+http://simracing-united.net/
+
+Track: [Track_Current]
+
+Sprint-Race each day at ?? UTC/GMT
+Printrennen jeden Tag um ?? UTC+1
+
+Next Grand-Prix ??.??.???
+Nächster Grand-Prix ??.??.????
+
+Calendar: [Calendar_Link]
+
+Rules: [Rules_Link]
+
+Ranking: [Ranking_Link]

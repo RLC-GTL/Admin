@@ -1,0 +1,4 @@
+Fahrername,Profilname,Team,GUID,MPID,Licensed
+Ramon Hofer,Powderking,,76561198050872791,3319638441,true
+Urs Nüssle,easyracer,,76561198089277692,1776156376,true
+Benny Kammer,Guru4,,76561198089671483,3071421929,true
