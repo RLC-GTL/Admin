@@ -16,7 +16,7 @@ Zum Verteilen der Track-, Car- und Skin-Packs wird das AC_SRU_Sync Tool verwende
 §2 Fahrerfeld
 
 (1) Startplätze / Grids
-Die Serie wird in einem Grid bestehend aus maximal 18 Autos gefahren. Sollten streckenbedingt mehr oder weniger Startplätze zur Verfügung stehen, wird dieses in der Rennankündigung ausdrücklich erwähnt.
+Die Serie wird in einem Grid bestehend aus maximal 20 Autos gefahren. Sollten streckenbedingt mehr oder weniger Startplätze zur Verfügung stehen, wird dieses in der Rennankündigung ausdrücklich erwähnt.
 
 (2) Anmeldung für die Serie
 Fahrer- Anmeldung
@@ -44,11 +44,11 @@ Die Lizenz kann dann wieder erteilt werden, wenn der betroffene Fahrer die Gentl
 Jeder Fahrer, der eine neue Gentlemen's Cup-Lizenz benötigt, muss sich im Forum zur Beantragung anmelden. Sobald die Erteilung abgeschlossen ist, wird die Übersicht der Lizenzen im Forum aktualisiert.
 
 (4) Anmeldung für die Wertungsrennen
-Die Anmeldung zu den einzelnen Wertungsrennen ist nur dann erforderlich, sobald mehr als 18 Teilnehmer für die Serie angemeldet sind.
+Die Anmeldung zu den einzelnen Wertungsrennen ist nur dann erforderlich, sobald mehr als 20 Teilnehmer für die Serie angemeldet sind.
 In diesem (und nur in diesem) Fall gilt:
 Jeder Fahrer, der am nächsten Wertungsrennen teilnehmen möchte, muss sich bis Donnerstags vor dem entsprechenden Wertungsrennen, 17:00 Uhr (Forenzeit) im jeweiligen Thread "Anmeldung zum x. Saisonrennen" eingeschrieben haben. Posts in anderen Threads sind nicht gültig.
 
-Stammfahrer (Zu Saisonbeginn sind das die ersten 18 angemeldeten Fahrer.) haben immer Vorrecht, unabhängig von der Reihenfolge, in der sie sich zum jeweiligen Wertungsrennen angemeldet haben.
+Stammfahrer (Zu Saisonbeginn sind das die ersten 20 angemeldeten Fahrer.) haben immer Vorrecht, unabhängig von der Reihenfolge, in der sie sich zum jeweiligen Wertungsrennen angemeldet haben.
 Ersatzfahrer (Zu Saisonbeginn sind das die Fahrer, die sich als 19. oder später angemeldet haben.) bekommen die freien Plätze in der zeitlichen Reihenfolge, in der sie sich zum jeweiligen Wertungsrennen angemeldet haben.
 Stammfahrer haben ebenfalls die Möglichkeit, sich von einem Wertungsrennen abzumelden. Dies gibt den Ersatzfahrern, die sich am schnellsten für das jeweilige Rennen angemeldet haben, eine grobe Planungssicherheit.
 Jede An- oder Abmeldung kann durch einen neuen Post wieder revidiert werden.
